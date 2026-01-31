@@ -1,0 +1,137 @@
+[
+  {
+    "name": "University of Oxford",
+    "type": "Russell Group",
+    "location": "Oxford",
+    "ranking_tier": "Top 5",
+    "typical_requirements": "A*A*A - A*AA",
+    "notes": "Most competitive UK university, tutorial system, requires admissions tests for most courses",
+    "strong_departments": ["Medicine", "Law", "PPE", "Engineering", "Mathematics"]
+  },
+  {
+    "name": "University of Cambridge",
+    "type": "Russell Group",
+    "location": "Cambridge",
+    "ranking_tier": "Top 5",
+    "typical_requirements": "A*A*A - A*AA",
+    "notes": "Highly competitive, college system, strong in sciences and engineering",
+    "strong_departments": ["Engineering", "Natural Sciences", "Mathematics", "Medicine", "Computer Science"]
+  },
+  {
+    "name": "Imperial College London",
+    "type": "Russell Group",
+    "location": "London",
+    "ranking_tier": "Top 10",
+    "typical_requirements": "A*A*A - AAA",
+    "notes": "Specialist in STEM subjects, strong industry connections",
+    "strong_departments": ["Engineering", "Medicine", "Computing", "Physics", "Chemistry"]
+  },
+  {
+    "name": "University College London (UCL)",
+    "type": "Russell Group",
+    "location": "London",
+    "ranking_tier": "Top 10",
+    "typical_requirements": "AAA - AAB",
+    "notes": "Wide range of subjects, central London location",
+    "strong_departments": ["Architecture", "Law", "Economics", "Medicine", "Psychology"]
+  },
+  {
+    "name": "London School of Economics (LSE)",
+    "type": "Russell Group",
+    "location": "London",
+    "ranking_tier": "Top 10",
+    "typical_requirements": "A*AA - AAA",
+    "notes": "Specialist in social sciences, highly competitive for economics and politics",
+    "strong_departments": ["Economics", "Law", "Politics", "Sociology", "International Relations"]
+  },
+  {
+    "name": "University of Edinburgh",
+    "type": "Russell Group",
+    "location": "Edinburgh",
+    "ranking_tier": "Top 20",
+    "typical_requirements": "AAA - ABB",
+    "notes": "Strong research university, beautiful city location",
+    "strong_departments": ["Veterinary Medicine", "Medicine", "Law", "Engineering", "Computer Science"]
+  },
+  {
+    "name": "University of Manchester",
+    "type": "Russell Group",
+    "location": "Manchester",
+    "ranking_tier": "Top 20",
+    "typical_requirements": "AAA - ABB",
+    "notes": "Large campus, strong research, vibrant student city",
+    "strong_departments": ["Engineering", "Computer Science", "Business", "Medicine", "Physics"]
+  },
+  {
+    "name": "University of Warwick",
+    "type": "Russell Group",
+    "location": "Coventry",
+    "ranking_tier": "Top 20",
+    "typical_requirements": "A*AA - AAB",
+    "notes": "Strong in economics and business, modern campus",
+    "strong_departments": ["Economics", "Business", "Mathematics", "Computer Science", "Engineering"]
+  },
+  {
+    "name": "University of Bath",
+    "type": "Modern",
+    "location": "Bath",
+    "ranking_tier": "Top 20",
+    "typical_requirements": "AAA - AAB",
+    "notes": "Excellent for engineering and architecture, campus university",
+    "strong_departments": ["Architecture", "Engineering", "Business", "Psychology", "Sport Science"]
+  },
+  {
+    "name": "Durham University",
+    "type": "Russell Group",
+    "location": "Durham",
+    "ranking_tier": "Top 10",
+    "typical_requirements": "A*AA - AAB",
+    "notes": "Collegiate system, traditional university, strong across subjects",
+    "strong_departments": ["Law", "Business", "Engineering", "Education", "Geography"]
+  },
+  {
+    "name": "University of Bristol",
+    "type": "Russell Group",
+    "location": "Bristol",
+    "ranking_tier": "Top 20",
+    "typical_requirements": "AAA - AAB",
+    "notes": "Strong research university, popular student city",
+    "strong_departments": ["Engineering", "Veterinary Science", "Medicine", "Law", "Economics"]
+  },
+  {
+    "name": "King's College London",
+    "type": "Russell Group",
+    "location": "London",
+    "ranking_tier": "Top 20",
+    "typical_requirements": "AAA - AAB",
+    "notes": "Central London location, strong in health sciences and humanities",
+    "strong_departments": ["Medicine", "Pharmacy", "Law", "War Studies", "Business"]
+  },
+  {
+    "name": "University of Nottingham",
+    "type": "Russell Group",
+    "location": "Nottingham",
+    "ranking_tier": "Top 30",
+    "typical_requirements": "AAB - ABB",
+    "notes": "Beautiful campus, strong internationally",
+    "strong_departments": ["Pharmacy", "Veterinary Medicine", "Engineering", "Law", "Medicine"]
+  },
+  {
+    "name": "University of Leeds",
+    "type": "Russell Group",
+    "location": "Leeds",
+    "ranking_tier": "Top 30",
+    "typical_requirements": "AAB - ABB",
+    "notes": "Large university, vibrant student city, broad subject range",
+    "strong_departments": ["Business", "Engineering", "Medicine", "Law", "English"]
+  },
+  {
+    "name": "University of Southampton",
+    "type": "Russell Group",
+    "location": "Southampton",
+    "ranking_tier": "Top 30",
+    "typical_requirements": "AAB - ABB",
+    "notes": "Strong in engineering and sciences",
+    "strong_departments": ["Engineering", "Oceanography", "Computer Science", "Medicine", "Physics"]
+  }
+]

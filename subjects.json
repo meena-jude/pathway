@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Mathematics",
+    "level": "A-Level",
+    "category": "STEM",
+    "required_for": ["Engineering", "Physics", "Economics", "Computer Science", "Actuarial Science"],
+    "recommended_for": ["Business", "Architecture", "Data Science"],
+    "difficulty": "High",
+    "description": "Essential for STEM careers and quantitative fields"
+  },
+  {
+    "name": "Further Mathematics",
+    "level": "A-Level",
+    "category": "STEM",
+    "required_for": ["Mathematics Degree", "Theoretical Physics", "Engineering (Top Unis)"],
+    "recommended_for": ["Computer Science", "Economics"],
+    "difficulty": "Very High",
+    "description": "Advanced mathematics for top university STEM programs"
+  },
+  {
+    "name": "Biology",
+    "level": "A-Level",
+    "category": "STEM",
+    "required_for": ["Medicine", "Dentistry", "Veterinary Science", "Biomedical Science"],
+    "recommended_for": ["Psychology", "Environmental Science", "Pharmacology"],
+    "difficulty": "High",
+    "description": "Critical for medical and life science careers"
+  },
+  {
+    "name": "Chemistry",
+    "level": "A-Level",
+    "category": "STEM",
+    "required_for": ["Medicine", "Dentistry", "Pharmacy", "Chemical Engineering", "Veterinary Science"],
+    "recommended_for": ["Biology", "Environmental Science"],
+    "difficulty": "High",
+    "description": "Essential for medicine and chemical sciences"
+  },
+  {
+    "name": "Physics",
+    "level": "A-Level",
+    "category": "STEM",
+    "required_for": ["Engineering", "Physics Degree", "Aerospace", "Architecture"],
+    "recommended_for": ["Mathematics", "Computer Science"],
+    "difficulty": "High",
+    "description": "Critical for engineering and physical sciences"
+  },
+  {
+    "name": "Computer Science",
+    "level": "A-Level",
+    "category": "STEM",
+    "required_for": ["Software Engineering", "Computer Science Degree"],
+    "recommended_for": ["Data Science", "Artificial Intelligence", "Cybersecurity"],
+    "difficulty": "Medium-High",
+    "description": "Important for technology and software careers"
+  },
+  {
+    "name": "English Literature",
+    "level": "A-Level",
+    "category": "Humanities",
+    "required_for": ["Law", "Journalism", "Education", "Publishing"],
+    "recommended_for": ["Marketing", "Public Relations"],
+    "difficulty": "Medium",
+    "description": "Develops critical analysis and communication skills"
+  },
+  {
+    "name": "History",
+    "level": "A-Level",
+    "category": "Humanities",
+    "required_for": ["Law", "Politics", "History Degree"],
+    "recommended_for": ["Journalism", "Museum Curation"],
+    "difficulty": "Medium",
+    "description": "Strong analytical and research skills"
+  },
+  {
+    "name": "Geography",
+    "level": "A-Level",
+    "category": "Social Sciences",
+    "required_for": ["Environmental Science", "Urban Planning", "Geology"],
+    "recommended_for": ["Civil Engineering", "International Development"],
+    "difficulty": "Medium",
+    "description": "Combines physical and human sciences"
+  },
+  {
+    "name": "Psychology",
+    "level": "A-Level",
+    "category": "Social Sciences",
+    "required_for": ["Psychology Degree", "Neuroscience"],
+    "recommended_for": ["Medicine", "Education", "Social Work"],
+    "difficulty": "Medium",
+    "description": "Understanding of human behavior and mental processes"
+  },
+  {
+    "name": "Economics",
+    "level": "A-Level",
+    "category": "Social Sciences",
+    "required_for": ["Economics Degree", "Business Studies"],
+    "recommended_for": ["Accounting", "Finance", "Management"],
+    "difficulty": "Medium-High",
+    "description": "Analysis of economic systems and policies"
+  },
+  {
+    "name": "Business Studies",
+    "level": "A-Level",
+    "category": "Social Sciences",
+    "required_for": ["Business Management", "Entrepreneurship"],
+    "recommended_for": ["Marketing", "Accounting"],
+    "difficulty": "Medium",
+    "description": "Practical business knowledge and management skills"
+  },
+  {
+    "name": "Art & Design",
+    "level": "A-Level",
+    "category": "Arts",
+    "required_for": ["Architecture", "Graphic Design", "Fine Art", "Fashion Design"],
+    "recommended_for": ["Interior Design", "Product Design"],
+    "difficulty": "Medium",
+    "description": "Creative and visual communication skills"
+  },
+  {
+    "name": "Drama",
+    "level": "A-Level",
+    "category": "Arts",
+    "required_for": ["Acting", "Theatre Studies"],
+    "recommended_for": ["Education", "Media Studies"],
+    "difficulty": "Medium",
+    "description": "Performance and theatrical skills"
+  },
+  {
+    "name": "Music",
+    "level": "A-Level",
+    "category": "Arts",
+    "required_for": ["Music Performance", "Music Composition", "Music Technology"],
+    "recommended_for": ["Sound Engineering", "Music Therapy"],
+    "difficulty": "Medium-High",
+    "description": "Musical theory, performance and composition"
+  },
+  {
+    "name": "French",
+    "level": "A-Level",
+    "category": "Languages",
+    "required_for": ["Modern Languages", "International Relations"],
+    "recommended_for": ["Business (International)", "Translation"],
+    "difficulty": "Medium",
+    "description": "Language proficiency and cultural understanding"
+  },
+  {
+    "name": "Spanish",
+    "level": "A-Level",
+    "category": "Languages",
+    "required_for": ["Modern Languages", "International Business"],
+    "recommended_for": ["Translation", "Diplomacy"],
+    "difficulty": "Medium",
+    "description": "Widely spoken language with global relevance"
+  },
+  {
+    "name": "Physical Education",
+    "level": "A-Level",
+    "category": "Sports",
+    "required_for": ["Sports Science", "Physiotherapy", "PE Teaching"],
+    "recommended_for": ["Sports Management", "Personal Training"],
+    "difficulty": "Medium",
+    "description": "Sports science and physical activity"
+  }
+]
